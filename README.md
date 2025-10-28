@@ -1,4 +1,4 @@
-# Projeto 3: Controle de Qualidade Visual com CNN e Transfer Learning
+# Controle de Qualidade Visual com CNN e Transfer Learning
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
