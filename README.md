@@ -47,7 +47,15 @@ O resultado final é uma aplicação web simples e intuitiva construída com `st
 * **Veredito Claro:** O resultado é exibido de forma destacada: "✅ APROVADO" ou "❌ DEFEITUOSO", junto com a porcentagem de confiança do modelo.
 
 *(Exemplo do Dashboard em ação)*
-`![Dashboard de Controle de Qualidade](dashboard_qc_demo.png)`
+
+<img width="1916" height="908" alt="image" src="https://github.com/user-attachments/assets/30cec80c-e23c-4c16-8175-c7ae8df4698a" />
+<img width="1917" height="902" alt="image" src="https://github.com/user-attachments/assets/1a44beb8-10cc-4f13-8674-499f498ed4ed" />
+
+### Defeituoso
+<img width="1877" height="802" alt="image" src="https://github.com/user-attachments/assets/2925db83-db45-41a7-ab32-e8725594c767" />
+
+### Aprovado!
+<img width="1882" height="850" alt="image" src="https://github.com/user-attachments/assets/40be3d47-fa5f-48de-81fe-282f68b6559e" />
 
 ## 5. Tech Stack (Tecnologias Utilizadas)
 
@@ -125,9 +133,12 @@ O modelo treinado alcançou uma **acurácia de 98.18%** no conjunto de teste (im
 
 O Relatório de Classificação e a Matriz de Confusão (gerados na Célula 3 do notebook) confirmam o alto desempenho:
 
-*(Insira aqui o Classification Report da sua execução, se desejar)*
+<img width="636" height="261" alt="image" src="https://github.com/user-attachments/assets/cda7f7aa-a8d1-4f0f-b255-28e3ba8d10a6" />
+
 
 **Matriz de Confusão:**
-`![Matriz de Confusão](confusion_matrix.png)`
+
+<img width="583" height="547" alt="image" src="https://github.com/user-attachments/assets/2c974579-5a6e-4d2d-a551-28a12609deac" />
+
 
 A matriz mostra que o modelo cometeu muito poucos erros, classificando corretamente a vasta maioria das peças "ok" e "defeituosas". Isso indica que o sistema é confiável para uso em um cenário de controle de qualidade real.
